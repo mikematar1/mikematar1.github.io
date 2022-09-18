@@ -1,0 +1,14 @@
+.main{
+    background-color: lightgray;
+    font-size: 20px;
+}
+table{
+    width: 50%;
+}
+body{
+    background-color: rgb(195,195,195);
+    color: darkred;
+}
+.header{
+    background-color: white;
+}
